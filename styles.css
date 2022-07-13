@@ -1,0 +1,77 @@
+body{
+background-color: #9a8981;
+
+}
+.color-pallete{
+    border:2px solid #123C69;
+    text-align: center;
+}
+.color-square{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-bottom: 10px;
+    
+}
+.color-square#sand-color{
+    background-color: #EDC7B7;
+
+}
+.color-square#tan-color{
+    background-color: #EEE2DC;
+}
+.color-square#gray-color{
+    background-color: #BAB2B5;
+}
+.color-square#navy-color{
+    background-color: #123C69;
+    color:white;
+}
+.color-square#margenta-color{
+    background-color: #AC3B61;
+    color:white
+}
+.color-square#orange-color{
+    background-color: #FCA311;
+}
+.color-square#black-color{
+    background-color: #000000;
+    color:#FCA311;
+}
+.color-square#darkblue-color{
+    background-color: #14213D;
+    color:#FCA311;
+}
+.color-square#smokegray-color{
+    background-color: #E5E5E5;
+}
+.color-square#white-color{
+    background-color: white;
+}
+.color-square#EAE7DC{
+    background-color: #EAE7DC;
+}
+.color-square#D8C3A5{
+    background-color: #D8C3A5;
+}
+.color-square#darkgray-color{
+    background-color: #8E8D8A;
+}
+.color-square#E98074{
+    background-color: #E98074;
+
+}
+.color-square#E85A4F{
+    background-color: #E85A4F;
+}
+.fonts{
+    border:2px solid #123C69;
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.Lato-fonts{
+    font-family: "Lato", sans-serif;
+}
+
+
