@@ -1,5 +1,6 @@
 body{
 background-color: #9a8981;
+font-family: monospace;
 
 }
 .color-pallete{
@@ -69,9 +70,48 @@ background-color: #9a8981;
     text-align: center;
     margin: 10px 0px;
 }
-
-.Lato-fonts{
-    font-family: "Lato", sans-serif;
+.font-container{
+    display: inline-block;
+    margin: 5px;
+    text-align: left;
+}
+.font-container#Lato-font{
+    font-family: 'Lato', sans-serif;
+}
+.font-container#Advent-font{
+    font-family: 'Advent Pro', sans-serif;
+}
+.font-container#Ubuntu-Mono{
+    font-family: 'Ubuntu Mono', monospace;
+}
+.text-style{
+    border:2px solid #123C69;
+    text-align: center;
+    margin: 10px 0px;
+    padding: 10px 10px;
+}
+.text-style-container{
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+}
+.text-style ul > li {
+    font-size: 14px;
+}
+h1.main-heading#example{
+    font-weight: 700px;
+    font-size: 26px;
+    font-family: "Advent Pro";
+}
+h2.main-heading#example{
+    font-weight: 500px;
+    font-size: 18px;
+    font-family: "Lato";
+}
+p.main-heading#example{
+    font-weight: 400px;
+    font-size: 14px;
+    font-family: "Lato";
 }
 
 
